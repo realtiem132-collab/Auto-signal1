@@ -1,0 +1,13 @@
+{
+  "name": "quotex-signal-bot",
+  "version": "1.0.0",
+  "description": "Telegram 1m signal bot for Quotex",
+  "main": "f3_bot.js",
+  "scripts": {
+    "start": "node f3_bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "moment-timezone": "^0.5.45"
+  }
+}
